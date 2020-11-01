@@ -1,0 +1,4 @@
+automatic parser json telegram constructor. reads from the official site.
+ussage:
+  php get_constructs.php > constructs.js 
+
