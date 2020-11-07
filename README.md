@@ -1,4 +1,4 @@
-MTproto Layer 113.
+Telegram MTproto Layer 113.
 
 Native Javascript. Minimum size. Some functionality like displaying JSON is left for debugging purposes only.
 
